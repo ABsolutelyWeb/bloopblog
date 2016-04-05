@@ -1,2 +1,2 @@
 # bloopblog
-A small blog that utilizes RESTful routing and Semantic UI.
+A small blog made with Node.js in Express that utilizes RESTful routing and Semantic UI.
